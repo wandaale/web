@@ -1,0 +1,32 @@
+body{
+    background-color: pink;
+    align-items: center;
+    margin-top: auto;
+    font-size: 20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+button{
+    background-color: rgb(255, 231, 235);
+    display: block;
+    border-radius: 15px;
+    font-size: 15px;
+}
+
+.container h1{
+    text-align: center;
+    color: rgb(255, 96, 96);
+    margin-bottom: 3px;
+}
+
+.container form input{
+    border: none;
+    background-color: transparent;
+    border-bottom: 2px solid #000000;
+    color: rgb(129, 129, 129);
+    font-size: 20px;
+}
+
+.nama{
+    text-align-last: center;
+}
